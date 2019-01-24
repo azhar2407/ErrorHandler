@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/tests"/>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/8fab23986ea8886af34818daf32a718e81dc98ba/commons-math3-3.6.1-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0/ed233607c5c11e1a13a3fd760033ed5d9fe525c2/guava-23.0-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0/c947004bb13d18182be60077ade044099e4f26f1/guava-23.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.4.RELEASE/798f5526e1b89f036bd426ec682f34d12a21aba2/spring-boot-2.0.4.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.4.RELEASE/c8619c5b06d4dcdb4cac1e5e9c839e6e8b1c8574/spring-boot-2.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.1/5d285d47780839e72fe80a33922f9331068d143c/aspectjweaver-1.9.1-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.1/286d98dc6bed3021f76a241d593fd713515777dd/aspectjweaver-1.9.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/220c1232fa6d13b427c10ccc1243a87f5f501d31/error_prone_annotations-2.0.18-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.8.RELEASE/b3f7486552651d383405e86cc353d7bbc73fee55/spring-context-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.8.RELEASE/3a067d8990761111c9b6d1d895640be26cc1fb38/spring-context-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.8.RELEASE/f03a9ab05a62bfa80d9d6179973f4e4e52efddfc/spring-aop-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.8.RELEASE/f5086c1a3185c481104511837427b39a07a57aa2/spring-aop-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.8.RELEASE/697d0708214ad512978c4dd545eb8d641f12b5cb/spring-beans-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.8.RELEASE/5fc965d3e7f5515099244857a8ae9e2a208c169b/spring-beans-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.8.RELEASE/5924cb7bf1a4168a8b2bcd22db7d4a57e5901f68/spring-expression-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.8.RELEASE/f23158f22c917df2cddf2ecebc398a9e95f95fae/spring-expression-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/a85fa9dfe4cb9c643ca3775279c8a1b50cd9e0b3/spring-core-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/b2d3223c5aa039d4046c8664b9a062e99b2d29fe/spring-jcl-5.0.8.RELEASE-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="/Users/azahmed/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
